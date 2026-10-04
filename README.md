@@ -101,6 +101,30 @@ Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결�
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
 </p>
 
+---
+
+### Experience
+
+**서울소프트** · `2026.08 – 현재`
+
+2026년 8월 입사 · 재직 중
+
+### Education
+
+**심화 · 심층 데이터 분석을 통한 서비스 솔루션 개발자 과정** · `2025.12 – 2026.02`
+
+- 과정 수료
+- AI·머신러닝 학습과 CNN 기반 이미지 분류 모델의 서비스 연계 경험
+
+**KB IT’s Your Life 6기** · `2025.03 – 2025.08`
+
+- 과정 수료
+- Java · Spring · Vue.js · MySQL 기반 웹 개발 및 팀 프로젝트 경험
+
+**청주대학교 전자공학과** · `2018 – 2024`
+
+- 졸업
+
 ### Next page
 
 요즘은 다음 개인 프로젝트의 기획을 다듬고 있습니다.
