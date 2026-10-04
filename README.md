@@ -23,15 +23,7 @@ Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결�
 
 직접 맡아 구현한 기능과, 그 과정에서 배운 것들.
 
-<table width="100%">
-<tr><td>
-<sub>01 / TRAVEL · WEB</sub>
-<h3><a href="https://github.com/kwon990217/nbtrip">N빵트립 ↗</a></h3>
-<p>여행 경비를 함께 기록하고 정산하는 플랫폼</p>
-<p><strong>내가 맡은 일</strong><br/>홈 대시보드 · 알림 시스템 풀스택 개발</p>
-<p><code>Spring</code> <code>Vue.js</code> <code>MySQL</code> <code>FCM</code> <code>Quartz</code></p>
-</td></tr>
-</table>
+<a href="https://github.com/kwon990217/nbtrip"><img src="assets/project-nbtrip.svg" width="100%" alt="N빵트립 — 여행 경비 기록·정산 플랫폼. 담당: 홈 대시보드와 알림 시스템 풀스택 개발." /></a>
 
 <details>
 <summary>개발 과정과 배운 점 보기</summary>
@@ -42,15 +34,7 @@ Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결�
 
 </details>
 
-<table width="100%">
-<tr><td>
-<sub>02 / VISION · AI</sub>
-<h3><a href="https://github.com/kwon990217/carwhy">사고너머 · Carwhy ↗</a></h3>
-<p>자동차 사고 사진을 분석하고 대응 정보를 제공하는 서비스</p>
-<p><strong>내가 맡은 일</strong><br/>사고 여부 판단 · 차종 분류 모델 개발</p>
-<p><code>Python</code> <code>MobileNetV2</code> <code>YOLOv8</code> <code>FastAPI</code></p>
-</td></tr>
-</table>
+<a href="https://github.com/kwon990217/carwhy"><img src="assets/project-carwhy.svg" width="100%" alt="사고너머 · Carwhy — 자동차 사고 이미지 분석 서비스. 담당: 사고 여부 판단과 차종 분류 모델 개발." /></a>
 
 <details>
 <summary>개발 과정과 배운 점 보기</summary>
@@ -60,15 +44,7 @@ Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결�
 
 </details>
 
-<table width="100%">
-<tr><td>
-<sub>03 / BRAND · AI</sub>
-<h3><a href="https://github.com/kwon990217/Royalty">Royalty ↗</a></h3>
-<p>상표 유사도를 분석하고 유사 상표 출원을 모니터링하는 플랫폼</p>
-<p><strong>내가 맡은 일</strong><br/>상표 데이터 모니터링 · 브랜드 문구 생성</p>
-<p><code>Spring Boot</code> <code>PostgreSQL</code> <code>MyBatis</code> <code>OpenAI API</code></p>
-</td></tr>
-</table>
+<a href="https://github.com/kwon990217/Royalty"><img src="assets/project-royalty.svg" width="100%" alt="Royalty — AI 상표 분석·모니터링 플랫폼. 담당: 상표 데이터 모니터링과 브랜드 문구 생성." /></a>
 
 <details>
 <summary>개발 과정과 배운 점 보기</summary>
