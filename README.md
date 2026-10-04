@@ -43,15 +43,63 @@ Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결�
 
 ### Tools I use
 
-| | 기술 |
-| :--- | :--- |
-| Languages | Java · Python · JavaScript (ES6) |
-| Backend | Spring MVC · Spring Boot · Django · FastAPI |
-| Frontend | HTML5 · CSS3 · Vue.js · React · Bootstrap |
-| Databases | PostgreSQL · MySQL |
-| Build & DevOps | Gradle · Maven · Docker |
-| IDE & Editors | IntelliJ IDEA · VS Code · Eclipse |
-| Collaboration & Design | GitHub · Slack · Figma |
+#### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript%20(ES6)-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript (ES6)" />
+</p>
+
+#### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring MVC" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+</p>
+
+#### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" />
+</p>
+
+#### Databases
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+</p>
+
+#### Build & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&amp;logo=gradle&amp;logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
+
+#### IDE & Editors
+
+<p>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-252A34?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=white" alt="Eclipse" />
+</p>
+
+#### Collaboration & Design
+
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge" alt="Slack" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+</p>
 
 ### Next page
 
