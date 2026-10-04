@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-labelledby="title desc">
+  <title id="title">권혁주 · Hyuk Ju Kwon — Developer's Notes</title>
+  <desc id="desc">노트 표지 스타일의 프로필 배너. Build. Learn. Leave a record. 문구가 타이핑되며 나타납니다.</desc>
+  <style>
+    :root { --paper:#f7f5ef; --ink:#203d3a; --muted:#6c7e78; --rule:#d9dfd6; --accent:#bb643f; }
+    @media(prefers-color-scheme:dark) { :root { --paper:#172623; --ink:#e5ece3; --muted:#9bb0a5; --rule:#334b43; --accent:#efa47c; } }
+    .paper { fill:var(--paper); } .ink { fill:var(--ink); } .muted { fill:var(--muted); }
+    .rule { stroke:var(--rule); stroke-width:1; } .accent { fill:var(--accent); }
+    .sans { font-family:"Malgun Gothic","Apple SD Gothic Neo",Arial,sans-serif; }
+    .mono { font-family:Consolas,"Courier New",monospace; }
+    #reveal { animation:typing 12s steps(28,end) infinite; }
+    #cursor { animation:blink 1.2s step-end infinite; }
+    @keyframes typing { 0%,8% { width:0; } 48%,92% { width:540px; } 100% { width:0; } }
+    @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:.15; } }
+    @media(prefers-reduced-motion:reduce) { #reveal { animation:none; width:540px; } #cursor { animation:none; } }
+  </style>
+  <defs><clipPath id="typingClip"><rect id="reveal" x="55" y="207" width="540" height="38"/></clipPath></defs>
+  <rect width="1000" height="270" rx="18" class="paper"/>
+  <rect x="0" y="0" width="8" height="270" class="accent"/>
+  <path d="M32 30V244 M55 191H945" class="rule"/>
+  <text x="55" y="49" class="mono muted" font-size="13" letter-spacing="2.7">DEVELOPER'S NOTES</text>
+  <text x="945" y="49" class="mono muted" text-anchor="end" font-size="13">@kwon990217</text>
+  <text x="53" y="121" class="sans ink" font-size="51" font-weight="700" letter-spacing="-2">권혁주</text>
+  <text x="57" y="157" class="sans muted" font-size="19" letter-spacing="3">HYUK JU KWON</text>
+  <g transform="translate(785 88)">
+    <path d="M0 0H160 M0 24H160 M0 48H160 M0 72H160" class="rule"/>
+    <text x="0" y="17" class="mono muted" font-size="12">01  WEB DEVELOPMENT</text>
+    <text x="0" y="41" class="mono muted" font-size="12">02  PERSONAL PROJECTS</text>
+    <text x="0" y="65" class="mono muted" font-size="12">03  THINGS LEARNED</text>
+  </g>
+  <text x="55" y="234" class="mono ink" font-size="23" clip-path="url(#typingClip)">Build. Learn. Leave a record.</text>
+  <rect id="cursor" x="931" y="216" width="12" height="18" rx="2" class="accent"/>
+</svg>
