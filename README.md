@@ -6,42 +6,83 @@
 
 Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결한 문제를 기록합니다.
 
+<p>
+<img src="https://img.shields.io/badge/서울소프트-재직%20중-353D4B?style=flat-square" alt="서울소프트 재직 중" />
+<img src="https://img.shields.io/badge/SINCE-2026.08-353D4B?style=flat-square" alt="2026년 8월 입사" />
+<img src="https://img.shields.io/badge/BUILD%20WITH-Java%20%26%20Python-353D4B?style=flat-square" alt="Java와 Python으로 개발" />
+</p>
+
+<a href="#projects">프로젝트</a> · <a href="#tools">기술 스택</a> · <a href="#journey">경력과 교육</a>
+
 </div>
 
----
+<br/>
 
-### Projects I've worked on
+<a name="projects"></a>
+## 01 / Projects
 
-#### 01 · [N빵트립](https://github.com/kwon990217/nbtrip)
+직접 맡아 구현한 기능과, 그 과정에서 배운 것들.
 
-여행 경비를 함께 기록하고 정산하는 플랫폼.
+<table width="100%">
+<tr><td>
+<sub>01 / TRAVEL · WEB</sub>
+<h3><a href="https://github.com/kwon990217/nbtrip">N빵트립 ↗</a></h3>
+<p>여행 경비를 함께 기록하고 정산하는 플랫폼</p>
+<p><strong>내가 맡은 일</strong><br/>홈 대시보드 · 알림 시스템 풀스택 개발</p>
+<p><code>Spring</code> <code>Vue.js</code> <code>MySQL</code> <code>FCM</code> <code>Quartz</code></p>
+</td></tr>
+</table>
 
-- **담당한 일** · 홈 대시보드와 알림 시스템을 풀스택으로 구현했습니다. FCM 푸시와 미정산 리마인더를 연결했습니다.
-- **남은 배움** · 알림 중복과 수신 대상 문제를 해결하면서, API와 데이터 조건을 함께 설계하는 중요성을 배웠습니다.
+<details>
+<summary>개발 과정과 배운 점 보기</summary>
 
-`Spring` `Vue.js` `MySQL` `FCM` `Quartz`
+- 홈 대시보드에서 여행 현황·미정산 내역·연동 계좌 정보를 연결했습니다.
+- 알림 목록, 읽음 처리, FCM 푸시와 미정산 리마인더를 구현했습니다.
+- 알림 중복과 수신 대상 문제를 해결하며 API와 데이터 조건을 함께 설계하는 중요성을 배웠습니다.
 
-#### 02 · [사고너머 · Carwhy](https://github.com/kwon990217/carwhy)
+</details>
 
-자동차 사고 사진을 분석하고 사고 대응 정보를 제공하는 AI 서비스.
+<table width="100%">
+<tr><td>
+<sub>02 / VISION · AI</sub>
+<h3><a href="https://github.com/kwon990217/carwhy">사고너머 · Carwhy ↗</a></h3>
+<p>자동차 사고 사진을 분석하고 대응 정보를 제공하는 서비스</p>
+<p><strong>내가 맡은 일</strong><br/>사고 여부 판단 · 차종 분류 모델 개발</p>
+<p><code>Python</code> <code>MobileNetV2</code> <code>YOLOv8</code> <code>FastAPI</code></p>
+</td></tr>
+</table>
 
-- **담당한 일** · MobileNetV2 기반 사고 여부 판단과 차종 분류 모델을 개발했습니다.
-- **남은 배움** · 데이터 수집·정제와 차량 영역 전처리가 모델 성능에 미치는 영향을 경험했습니다.
+<details>
+<summary>개발 과정과 배운 점 보기</summary>
 
-`Python` `MobileNetV2` `YOLOv8` `FastAPI`
+- MobileNetV2 기반 사고 여부 판단과 차종 분류 모델을 개발했습니다.
+- 데이터 수집·정제와 차량 영역 전처리가 모델 성능에 미치는 영향을 경험했습니다.
 
-#### 03 · [Royalty](https://github.com/kwon990217/Royalty)
+</details>
 
-상표의 문자·이미지 유사도를 분석하고 유사 상표 출원을 모니터링하는 플랫폼.
+<table width="100%">
+<tr><td>
+<sub>03 / BRAND · AI</sub>
+<h3><a href="https://github.com/kwon990217/Royalty">Royalty ↗</a></h3>
+<p>상표 유사도를 분석하고 유사 상표 출원을 모니터링하는 플랫폼</p>
+<p><strong>내가 맡은 일</strong><br/>상표 데이터 모니터링 · 브랜드 문구 생성</p>
+<p><code>Spring Boot</code> <code>PostgreSQL</code> <code>MyBatis</code> <code>OpenAI API</code></p>
+</td></tr>
+</table>
 
-- **담당한 일** · 상표 데이터 수집·주기적 동기화·유사도 감지와 GPT 기반 브랜드 아이덴티티 문구 생성을 구현했습니다.
-- **남은 배움** · AI 응답과 내부 분석 결과를 일치시키기 위해 프롬프트, 출력 검증, 후처리를 함께 설계했습니다.
+<details>
+<summary>개발 과정과 배운 점 보기</summary>
 
-`Spring Boot` `PostgreSQL` `MyBatis` `OpenAI API`
+- 상표 데이터를 수집하고 주기적으로 동기화하는 모니터링 흐름을 구현했습니다.
+- 유사도 감지와 GPT 기반 브랜드 아이덴티티 문구 생성을 연결했습니다.
+- AI 응답과 내부 분석 결과를 일치시키기 위해 프롬프트, 출력 검증, 후처리를 함께 설계했습니다.
 
----
+</details>
 
-### Tools I use
+<br/>
+
+<a name="tools"></a>
+## 02 / Tools I use
 
 #### Languages
 
@@ -101,35 +142,27 @@ Java와 Python으로 웹을 만들며, 구현 과정에서 배운 것과 해결�
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
 </p>
 
----
+<br/>
 
-### Experience
+<a name="journey"></a>
+## 03 / My journey
 
-**서울소프트** · `2026.08 – 현재`
+<img src="assets/journey.svg" width="100%" alt="경력과 교육: 서울소프트 2026.08부터 현재 재직. 심화·심층 데이터 분석을 통한 서비스 솔루션 개발자 과정 2025.12–2026.02 수료. KB IT’s Your Life 6기 2025.03–2025.08 수료. 청주대학교 전자공학과 2018–2024 졸업." />
 
-2026년 8월 입사 · 재직 중
+<details>
+<summary>경력·교육 상세 보기</summary>
 
-### Education
+- **2026.08 – 현재 · 서울소프트** — 2026년 8월 입사, 재직 중.
+- **2025.12 – 2026.02 · 심화·심층 데이터 분석을 통한 서비스 솔루션 개발자 과정** — 수료. AI·머신러닝 학습과 CNN 기반 이미지 분류 모델의 서비스 연계 경험.
+- **2025.03 – 2025.08 · KB IT’s Your Life 6기** — 수료. Java·Spring·Vue.js·MySQL 기반 웹 개발 및 팀 프로젝트 경험.
+- **2018 – 2024 · 청주대학교 전자공학과** — 졸업.
 
-**심화 · 심층 데이터 분석을 통한 서비스 솔루션 개발자 과정** · `2025.12 – 2026.02`
-
-- 과정 수료
-- AI·머신러닝 학습과 CNN 기반 이미지 분류 모델의 서비스 연계 경험
-
-**KB IT’s Your Life 6기** · `2025.03 – 2025.08`
-
-- 과정 수료
-- Java · Spring · Vue.js · MySQL 기반 웹 개발 및 팀 프로젝트 경험
-
-**청주대학교 전자공학과** · `2018 – 2024`
-
-- 졸업
-
-### Next page
-
-요즘은 다음 개인 프로젝트의 기획을 다듬고 있습니다.
-작게 만들고 직접 써보면서, 다음에 고칠 것을 찾아가려 합니다.
+</details>
 
 <br/>
+
+> **Next page**<br/>
+> 요즘은 다음 개인 프로젝트의 기획을 다듬고 있습니다.<br/>
+> 작게 만들고 직접 써보면서, 다음에 고칠 것을 찾아가려 합니다.
 
 <sub>Build something. Learn something. Leave a record.</sub>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+<title id="title">권혁주의 경력과 교육</title>
+<desc id="desc">서울소프트 2026년 8월부터 재직. 데이터 분석 과정 2025년 12월부터 2026년 2월 수료. KB IT’s Your Life 6기 2025년 3월부터 8월 수료. 청주대학교 전자공학과 2018년부터 2024년 졸업.</desc>
+<style>
+:root{--bg:#161b22;--ink:#e6edf3;--muted:#9da7b3;--line:#39424e;--accent:#adbed0;--card:#21262d;--pill:#3c4756;--white:#f0f3f6}
+text{font-family:'Malgun Gothic','Apple SD Gothic Neo',Arial,sans-serif}.mono{font-family:Consolas,monospace}.ink{fill:var(--ink)}.muted{fill:var(--muted)}
+</style>
+<rect width="900" height="500" rx="16" fill="var(--bg)"/>
+<text x="36" y="41" class="mono muted" font-size="13" letter-spacing="2">CAREER &amp; EDUCATION</text>
+<path d="M60 93V427" stroke="var(--line)" stroke-width="2"/>
+<rect x="88" y="66" width="776" height="92" rx="12" fill="var(--card)"/>
+<circle cx="60" cy="97" r="13" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/><circle cx="60" cy="97" r="6" fill="var(--accent)"/>
+<text x="110" y="103" class="mono ink" font-size="20" font-weight="700">2026.08 — 현재</text>
+<text x="346" y="103" class="ink" font-size="26" font-weight="700">서울소프트</text>
+<text x="346" y="136" class="muted" font-size="18">2026년 8월 입사</text>
+<rect x="766" y="86" width="70" height="28" rx="14" fill="var(--pill)"/>
+<text x="800" y="106" text-anchor="middle" fill="var(--white)" font-size="16" font-weight="700">재직 중</text>
+<circle cx="60" cy="209" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/>
+<text x="110" y="215" class="mono muted" font-size="20">2025.12 — 2026.02</text>
+<text x="346" y="207" class="ink" font-size="23" font-weight="700">심화·심층 데이터 분석을 통한</text>
+<text x="346" y="240" class="ink" font-size="23" font-weight="700">서비스 솔루션 개발자 과정</text>
+<text x="346" y="269" class="muted" font-size="17">수료 · AI·머신러닝 / 서비스 연계</text>
+<circle cx="60" cy="323" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/>
+<text x="110" y="329" class="mono muted" font-size="20">2025.03 — 2025.08</text>
+<text x="346" y="329" class="ink" font-size="24" font-weight="700">KB IT’s Your Life 6기</text>
+<text x="346" y="362" class="muted" font-size="17">수료 · 웹 개발 / 팀 프로젝트</text>
+<circle cx="60" cy="427" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/>
+<text x="110" y="433" class="mono muted" font-size="20">2018 — 2024</text>
+<text x="346" y="433" class="ink" font-size="24" font-weight="700">청주대학교 전자공학과</text>
+<text x="346" y="464" class="muted" font-size="17">졸업</text>
+</svg>
